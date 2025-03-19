@@ -11,7 +11,7 @@ $ npm install --save-dev eslint eslint-plugin-fp
 
 ## Usage
 
-Configure it in `package.json`.
+Configure it in `eslint.config.mjs`.
 
 <!-- EXAMPLE_CONFIGURATION:START -->
 ```json
